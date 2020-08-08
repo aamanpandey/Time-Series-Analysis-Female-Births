@@ -1,4 +1,4 @@
-# Daily total female births in California, 1959
+# Daily Total Female Births in California, 1959
 
 ## About Dataset
 
@@ -6,7 +6,7 @@ A time series dataset depicting the total number of female births recording in C
 
 ## Objective
 
-Predict the female birth using ARIMA model
+Predict the female births using ARIMA model
 
 ## Model Used
 
